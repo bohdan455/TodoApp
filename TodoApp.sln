@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "TodoApp\TodoApp.csproj", "{22634F9E-F06A-4CC9-8FA8-F70234402D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp", "TodoApp\TodoApp.csproj", "{22634F9E-F06A-4CC9-8FA8-F70234402D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.Tests", "TodoApp.Tests\TodoApp.Tests.csproj", "{5798AB5A-F38B-4262-8323-671773C69757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp.Tests", "TodoApp.Tests\TodoApp.Tests.csproj", "{5798AB5A-F38B-4262-8323-671773C69757}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D40EEEE-0027-4F73-9B89-95CBE2FFFAD6}"
 	ProjectSection(SolutionItems) = preProject
+		chat.log = chat.log
 		README.md = README.md
 	EndProjectSection
 EndProject
