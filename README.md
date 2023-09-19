@@ -30,6 +30,20 @@ You can test the application using a tool like Postman or cURL.
 
 And that's it! You have successfully built and run the TodoApi application.
 
+# Feedback
+- Was it easy to complete the task using AI? 
+
+	- Yes, it was easy to complete the task using AI. I was able to complete the task in less than 2 hours even without knowledge of mysql.
+- How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics)
+
+	- 2 hours
+- Was the code ready to run after generation? What did you have to change to make it usable?
+	- Code wasn't ready to run after generation because required some changes. It was a problem with connecting to db but gpt helped me to solve it. Also some part code didn't follow clean code principles and
+	ef core queries weren't writen in the most efficient way.
+
+- Which specific prompts you learned as a good practice to complete the task?
+	- It was a good idea to provide question to gpt along with error message
+
 
 
 
